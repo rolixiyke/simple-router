@@ -1,0 +1,16 @@
+{
+  "name": "simple-router",
+  "version": "1.0.0",
+  "description": "a simple router created using nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \\\"Error: no test sspecified\\\" && exit 1"
+  },
+  "keywords": [
+    "simple",
+    "router",
+    "nodejs"
+  ],
+  "author": "ikechukwu ndukwe",
+  "license": "ISC"
+}
